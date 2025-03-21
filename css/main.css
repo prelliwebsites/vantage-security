@@ -2496,7 +2496,7 @@ ul.breadcrumb li.active {
   position: absolute;
   z-index: 3;
   width: 34.32%;
-  right: 16%;
+  right: 9%;
   top: 17.1%;
 }
 .theme-banner-two .hero-img-wrapper .hero-img {
@@ -2509,7 +2509,7 @@ ul.breadcrumb li.active {
   -moz-border-radius: 154px;
   -ms-border-radius: 154px;
   -o-border-radius: 154px;
-  left: 5%;
+  left: 15%;
   margin-top: 95px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -2540,7 +2540,7 @@ ul.breadcrumb li.active {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
-  right: 0;
+  right: 5%;
   top: 0;
 }
 @media (max-width: 1200px) {
@@ -2550,10 +2550,10 @@ ul.breadcrumb li.active {
 }
 .theme-banner-two .hero-img-wrapper .hero-img.arrow-1 {
   top: 2rem;
-  left: 1%;
+  left: 15%;
 }
 .theme-banner-two .hero-img-wrapper .hero-img.arrow-2 {
-  right: 2%;
+  right: 15%;
   margin-top: 16.5rem;
 }
 @media (max-width: 1200px) {
@@ -2562,7 +2562,7 @@ ul.breadcrumb li.active {
   }
 }
 .theme-banner-two .hero-img-wrapper .hero-img.arrow-3 {
-  right: -2%;
+  right:1%;
   top: -24px;
   transform: rotate(-2deg);
 }
@@ -2665,7 +2665,7 @@ ul.breadcrumb li.active {
   width: 280px;
   position: absolute;
   top: -26px;
-  left: 8%;
+  left: 21%;
   padding: 14px 26px 14px 18px;
 }
 .hero-box .icon {
@@ -2704,10 +2704,10 @@ ul.breadcrumb li.active {
   -moz-border-radius: 15px;
   -ms-border-radius: 15px;
   -o-border-radius: 15px;
-  width: 256px;
+  width: 200px;
   position: absolute;
-  right: 3%;
-  margin-top: 59%;
+  right: 0%;
+  margin-top: 49%;
   padding: 26px 33px 26px 26px;
 }
 @media (max-width: 1200px) {
